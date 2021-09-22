@@ -10,6 +10,28 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+### Back-End Development
+
+![laravel](https://img.shields.io/badge/Laravel-orange?style=for-the-badge&logo=Laravel&logoColor=white)
+![Lumen](https://img.shields.io/badge/Lumen-orange?style=for-the-badge&logo=Lumen&logoColor=white)
+![symfony](https://img.shields.io/badge/Symfony-092E20?style=for-the-badge&logo=Symfony&logoColor=white)
+![phalcon](https://img.shields.io/badge/phalcon-a7f2c0?style=for-the-badge&logo=falcon&logoColor=black)
+
+### Database
+
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-07405E?style=for-the-badge&logo=postgresql&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+### Extra Skills
+
+![aws](https://img.shields.io/badge/aws-e65a09?style=for-the-badge&logo=ubuntu&logoColor=black)
+![ssl intallation](https://img.shields.io/badge/ssl-47A248?style=for-the-badge&logo=slack&logoColor=white)
+![psr standards](https://img.shields.io/badge/aws-47A248?style=for-the-badge&logo=slack&logoColor=white)
+![rest api](https://img.shields.io/badge/restapi-47A248?style=for-the-badge&logo=fast_apik&logoColor=white)
+
 
 ### Front-End Development
 
@@ -19,26 +41,11 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Back-End Development
-
-![laravel](https://img.shields.io/badge/Laravel-orange?style=for-the-badge&logo=Laravel&logoColor=white)
-![Lumen](https://img.shields.io/badge/Lumen-orange?style=for-the-badge&logo=Lumen&logoColor=white)
-![symfony](https://img.shields.io/badge/Symfony-092E20?style=for-the-badge&logo=Symfony&logoColor=white)
-![phalcon](https://img.shields.io/badge/phalcon-a7f2c0?style=for-the-badge&logo=phalcon&logoColor=black)
-
-### Database
-
-![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![postgresql](https://img.shields.io/badge/postgresql-07405E?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Backend as a Service (BaaS)
-
-![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-
 ### Workspace Setup
 
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![ubuntu](https://img.shields.io/badge/ubuntu-e65a09?style=for-the-badge&logo=ubuntu&logoColor=black)
+![netbeans] (https://img.shields.io/badge/netbeans-b5bcc7?style=for-the-badge&logo=square&logoColor=black)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 
