@@ -40,3 +40,7 @@
 
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=jainilrajwaniya)
+
