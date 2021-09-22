@@ -28,9 +28,9 @@
 ### Extra Skills
 
 ![aws](https://img.shields.io/badge/aws-e65a09?style=for-the-badge&logo=ubuntu&logoColor=black)
-![ssl intallation](https://img.shields.io/badge/ssl-47A248?style=for-the-badge&logo=slack&logoColor=white)
-![psr standards](https://img.shields.io/badge/psr standards-96e3d4?style=for-the-badge&logo=composer&logoColor=white)
-![rest api](https://img.shields.io/badge/restapi-47A248?style=for-the-badge&logo=fast_apik&logoColor=white)
+![ssl](https://img.shields.io/badge/ssl-47A248?style=for-the-badge&logo=slack&logoColor=white)
+![psr_standards](https://img.shields.io/badge/psr_standards-96e3d4?style=for-the-badge&logo=composer&logoColor=white)
+![rest_api](https://img.shields.io/badge/rest_api-47A248?style=for-the-badge&logo=fast_apik&logoColor=white)
 
 
 ### Front-End Development
