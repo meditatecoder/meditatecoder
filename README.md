@@ -45,7 +45,7 @@
 
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/ubuntu-e65a09?style=for-the-badge&logo=ubuntu&logoColor=black)
-![netbeans] (https://img.shields.io/badge/netbeans-b5bcc7?style=for-the-badge&logo=square&logoColor=black)
+![net_beans](https://img.shields.io/badge/net_beans-b5bcc7?style=for-the-badge&logo=square&logoColor=black)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 
