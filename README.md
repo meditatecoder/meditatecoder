@@ -2,7 +2,7 @@
 
 ### About Me
 
- I am Jainil Rajwaniya , a **Back End Developer** (specializing in **Laravel/Symfony Applications**) & [**freelancer**]. I have done my masters **Computer Science & Engineering** .
+ I am Jainil Rajwaniya , a **Back End Developer** (specializing in **Laravel/Symfony Applications**) & [**freelancer**]. I have done my masters **Computer Science & Engineering** and constantly looking to learn new technologies.
 
 ### Languages
 
