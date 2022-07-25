@@ -12,6 +12,7 @@
 
 ### Back-End Development
 
+![NodeJs](https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=nodejs&logoColor=green)
 ![laravel](https://img.shields.io/badge/Laravel-orange?style=for-the-badge&logo=Laravel&logoColor=white)
 ![Lumen](https://img.shields.io/badge/Lumen-orange?style=for-the-badge&logo=Lumen&logoColor=white)
 ![symfony](https://img.shields.io/badge/Symfony-092E20?style=for-the-badge&logo=Symfony&logoColor=white)
