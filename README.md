@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-### About Me
+## About Me
 
  I am Jainil Rajwaniya , a **Back End Developer** (specialized in **PHP and NodeJs Applications**) & [**freelancer**]. I have done my masters **Computer Science** and constantly looking to learn new technologies.
 
