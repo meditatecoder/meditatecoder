@@ -2,11 +2,12 @@
 
 ## About Me 
 
- I am Jainil Rajwaniya, a **Back End Developer** (specialized in **PHP and NodeJs Applications**) & [**freelancer**]. I have done my masters **Computer Science** and constantly looking to learn new technologies
+ I am Jainil Rajwaniya, a **Back End Developer** (specialized in **PHP and Go Applications**) & [**freelancer**]. I have done my masters **Computer Science** and constantly looking to learn new technologies
 
 ### Languages
 
 ![PHP](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=PHP&logoColor=white)
+![Go](https://img.shields.io/badge/GoLang-blue?style=for-the-badge&logo=go&logoColor=lightblue)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
