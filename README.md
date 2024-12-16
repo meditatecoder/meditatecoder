@@ -2,7 +2,7 @@
 
 ## About Me
 
- I am Jainil Rajwaniya, a **Back End Developer** (specialized in **PHP and NodeJs Applications**) & [**freelancer**]. I have done my masters **Computer Science** and constantly looking to learn new technologies
+ I am Jainil Rajwaniya, a **Back End Developer** (specialized in **PHP and NodeJs Applications**). I have done my masters in **Computer Science** and eager learn new technologies. While working with me you can find me as as a pro-active, focused and dedicated developer.
 
 ### Languages
 
