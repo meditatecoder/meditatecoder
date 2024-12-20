@@ -7,7 +7,7 @@
 ### Languages
 
 ![PHP](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=PHP&logoColor=white)
-![Go](https://img.shields.io/badge/GoLang-blue?style=for-the-badge&logo=go&logoColor=lightblue)
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
