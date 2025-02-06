@@ -4,7 +4,7 @@
 
  I am Jainil Rajwaniya, a **Back End Developer** (specialized in **PHP and NodeJs Applications**). I have done my masters in **Computer Science** and eager learn new technologies. While working with me you can find me as as a pro-active, focused and dedicated developer.
 
-### Languages
+### Languages 
 
 ![PHP](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=PHP&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
