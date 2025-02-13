@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-## About Me
+## About Me 
 
  I am Jainil Rajwaniya, a **Back End Developer** (specialized in **PHP, Laravel Applications**). I have done my masters in **Computer Science** and eager learn new technologies. While working with me you can find me as as a pro-active, focused and dedicated developer.
 
