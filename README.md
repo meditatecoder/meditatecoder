@@ -2,7 +2,31 @@
 
 ## About Me
 
- I am Jainil Rajwaniya, a **Back End Developer** (specialized in **PHP, Laravel Applications**). I have done my masters in **Computer Science** and eager learn new technologies. While working with me you can find me as as a pro-active, focused and dedicated developer.
+I am Jainil Rajwaniya and specialize in PHP and PHP frameworks and have over ten years of experience in building high traffic sites such as job portals, E-commerce and navigation-based phone apps. I also work with companies in building end-to-end solutions for their websites, such as setting up and running databases, integrating APIs into existing applications, and handling SEO and Google Analytics. I am also an experienced cloud consultant, having worked with clients on AWS projects and can help you migrate your legacy apps and mobile apps to the cloud.
+
+🔹 My skills:
+
+✔ Core PHP, Laravel, Lumen, Symfony, slim, Phalcon, CodeIgniter, CakePHP, Yii
+
+✔ IoT, integration of ANPR cameras api, audio/video, FFMPEG
+
+✔ REST APIs
+
+✔ AWS EC2, SSL installation, AWS S3, AWS RDS. DNS Management
+
+✔ Javascript, jquery
+
+✔ Mysql, mongoDb, Postgre SQL, Firebase real-time database, ElasticSearch
+
+✔ Experience in APIs, Seo, AMP, Google Analytics, Optimization, Map Box
+
+✔ Experience in working with various payment gateways like stripe, paypal, myFatoorah, knet, etc
+
+✔ Experience in working with various third party apis like Twilio, google SSO, Facebook SSO, etc
+
+✔ Experience in working with PHP/Laravel/Symfony version upgrade.
+
+✔ Experience in working with maintaining PSR standards and code reviewing.
 
 ### Languages
 
