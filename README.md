@@ -59,7 +59,7 @@ I am Jainil Rajwaniya and specialize in PHP and PHP frameworks and have over ten
 ![rest_api](https://img.shields.io/badge/rest_api-47A248?style=for-the-badge&logo=fast_apik&logoColor=white)
 
 
-### Front-End Development
+### Front-End Development 
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
