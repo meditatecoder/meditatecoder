@@ -1,5 +1,5 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
-## About Me 
+## About Me
 
 I specialize in PHP and frameworks and have over ten years of experience in building high traffic sites such as job portals, E-commerce and navigation-based phone apps. I also work with companies in building end-to-end solutions for their websites, such as setting up and running databases, integrating APIs into existing applications, and handling SEO and Google Analytics. I am also an experienced cloud consultant, having worked with clients on AWS projects and can help you migrate your legacy apps and mobile apps to the cloud. 
 
