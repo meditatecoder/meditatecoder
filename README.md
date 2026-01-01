@@ -71,13 +71,3 @@ I specialize in PHP and frameworks and have over ten years of experience in buil
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/ubuntu-e65a09?style=for-the-badge&logo=ubuntu&logoColor=black)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=jainilrajwaniya)
-
-
-Last updated on Thu Jan  1 11:30:49 UTC 2026
-
-Last updated on Thu Jan  1 11:39:52 UTC 2026
-
-Last updated on Thu Jan  1 11:40:58 UTC 2026
