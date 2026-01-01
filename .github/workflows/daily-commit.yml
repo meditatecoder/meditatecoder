@@ -15,8 +15,7 @@ jobs:
 
       - name: Update README
         run: |
-          echo "" >> README.md
-          echo "Last updated on $(date)" >> README.md
+          echo "" >> README.md          
 
       - name: Commit changes
         run: |
