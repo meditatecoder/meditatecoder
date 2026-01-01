@@ -2,7 +2,7 @@ name: Daily README Update
 
 on:
   schedule:
-    - cron: '0/5 * * * *'   # Runs every day at 01:00 UTC
+    - cron: '0 0/3 * * *'   # Runs every day at 01:00 UTC
   workflow_dispatch:     # Allow manual run
 
 jobs:
