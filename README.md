@@ -72,3 +72,4 @@ I specialize in PHP and frameworks and have over ten years of experience in buil
 ![ubuntu](https://img.shields.io/badge/ubuntu-e65a09?style=for-the-badge&logo=ubuntu&logoColor=black)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
+
